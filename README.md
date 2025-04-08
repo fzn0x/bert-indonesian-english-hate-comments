@@ -1,16 +1,14 @@
-> 🚫 This repository is for **research and educational purposes only**. Commercial use is not allowed.
-
 # Fine-tuned BERT-base-uncased pre-trained model for Indonesian-English hate comments sentiment analysis
 
 My first project in Natural Language Processing (NLP), where I fine-tuned a bert-base-uncased model to classify hate comments in a bilingual (Indonesian-English) dataset. This project focuses on sentiment analysis to detect toxic, offensive, or hateful language commonly found in social media and online platforms.
 
 ## TODO
 
-✅ Uses `bert-base-multilingual-uncased`, a widely used multilingual model.
-✅ Clean Dataset class for handling data.
-✅ Uses Hugging Face's Trainer API — very efficient.
-✅ Includes training and evaluation splits.
-✅ Saves the model and tokenizer.
+✅ Uses `bert-base-multilingual-uncased`, a widely used multilingual model.\
+✅ Clean Dataset class for handling data.\
+✅ Uses Hugging Face's Trainer API — very efficient.\
+✅ Includes training and evaluation splits.\
+✅ Saves the model and tokenizer.\
 
 ## ✅ INSTALL REQUIREMENTS
 
@@ -86,6 +84,8 @@ Copyright 2025 Muhammad Fauzan (fzn0x)
 ---
 
 Leave a ⭐ if you think this project is helpful, contributions are welcome.
+
+> 🚫 This repository is for **research and educational purposes only**. Commercial use is not allowed.
 
 ```
 @article{DBLP:journals/corr/abs-1810-04805,
