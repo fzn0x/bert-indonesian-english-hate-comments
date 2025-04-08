@@ -8,7 +8,7 @@ My first project in Natural Language Processing (NLP), where I fine-tuned a bert
 ✅ Clean Dataset class for handling data.\
 ✅ Uses Hugging Face's Trainer API — very efficient.\
 ✅ Includes training and evaluation splits.\
-✅ Saves the model and tokenizer.\
+✅ Saves the model and tokenizer.
 
 ## ✅ INSTALL REQUIREMENTS
 
